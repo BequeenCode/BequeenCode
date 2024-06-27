@@ -19,7 +19,7 @@
 
 ![Upwork](https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=Upwork&logoColor=white)
 ## My skills
-<div align="center">[![My Skills](https://skillicons.dev/icons?i=cpp,mysql,py,html,css,javascript,vscode,java)](https://skillicons.dev)</div>
+<a align="center" href="https://skillicons.dev/icons?i=cpp,mysql,py,html,css,javascript,vscode,java"></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BequeenCode&theme=onedark)](https://github.com/poricf/github-profile-trophy)
 
