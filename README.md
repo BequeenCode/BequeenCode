@@ -10,7 +10,7 @@
 - 👯  I’m looking to collaborate on exciting open-source projects or anything related to Designig and software engineering.
 - 🤔  I'm always open to learning and seeking help from the community to grow and improve.
 - 💬 Feel free to ask me about programming, or anything else you'd like to discuss.
-- 📫 How to reach me: You can reach me through  [Email](mailto:girumbeimnet74@gamil.com) or on Telegram ↗ [@Beimnet](https://t.me/beq12)
+- 📫 How to reach me: You can reach me through  [Email](mailto:girumbeimnet74@gamil.com) or on Telegram ↗ [@Beimnet](https://t.me/beq_12)
 - ⚡ Fun fact: .
 
 
