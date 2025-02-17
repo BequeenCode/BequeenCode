@@ -11,7 +11,7 @@
 - 🤔  I'm always open to learning and seeking help from the community to grow and improve.
 - 💬 Feel free to ask me about programming, or anything else you'd like to discuss.
 - 📫 How to reach me: You can reach me through  [Email](mailto:girumbeimnet74@gamil.com) or on Telegram ↗ [beq_12](https://t.me/beq_12)
-- ⚡ My Portfolio: https://beimnet-girum.netlify.app/ .
+- ⚡ My Portfolio: .
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/beq12)
